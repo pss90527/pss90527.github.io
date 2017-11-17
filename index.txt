@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<HTML>
+<Head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>
+ Kirby Puts UGA Football Atop the Playoff Rankings
+ </title>
+ <style type="text/css">
+ p.para {font-size: 100%;background-color:black;color:white}
+ </style>
+ </head>
+<Body style="background-color:#FF0000">
+<h1 style="background-color:black;color:white;padding:20px;">Kirby Puts UGA Football Atop the Playoff Rankings</h1>
+<div>
+<img src="kirby2.img" alt="Kirby Smart"
+style="float:right;width:220px;height:180px;">
+
+<table style= "width 60%" border="6">
+<tr><th style="background-color:black;color:white"> UGA SEC Record 
+</th></tr>
+<tr>
+<th>Opponent</th>
+<th>Score</th>
+<th>W/L</th>
+<th>SEC Record</th>
+</tr>
+<tr>
+<td>Mississippi State</td>
+<td>31-3</td>
+<td>W</td>
+<td>1-0</td>
+</tr>
+<tr>
+<td>University of Tennessee</td>
+<td>41-0</td>
+<td>W</td>
+<td>2-0</td>
+</tr>
+<tr>
+<td>Vanderbilt University</td>
+<td>45-14</td>
+<td>W</td>
+<td>3-0</td>
+</tr>
+<tr>
+<td>University of Missouri</td>
+<td>53-28</td>
+<td>W</td>
+<td>4-0</td>
+</tr>
+<tr>
+<td>University of Florida</td>
+<td>42-7</td>
+<td>W</td>
+<td>5-0</td>
+</tr>
+</table>
+<ul style="list-style-type:square;background-color:black;color:white">
+<li>UGA has outscored SEC opponents 212-45 through 5 games</li>
+<li>UGA ranked #1 for first time since 2008</li>
+<li> Currently 8-0</li>
+</ul>
+<h1 style="background-color:black;color:white"> Kirby's Hot Start</h1>
+
+<p class="para">	In 2017 Kirby Smart has defied all odds. He has started the season at 9-0 and set the recruiting trail on fire. In only his second season as the Georgia Football Head coach, Kirby has gone above and beyond in all facets of his job.</p> 
+<p class="para">The team has shown major improvements from last season in every aspect of the game and has a full head of steam going into the SEC Championship. In only his second season, Kirby has shown why he was the man for the job and has also instilled hope in the fans for what is to come.</p>
+<p class="para">The Georgia Football team is in control their own destiny for the College Football Playoff. They have won themselves into a favorable position, where they can still afford to lose a game, as long as it is not the SEC championship, and still make the playoff. Dawg Nation is fighting and eagerly waiting for the coveted SEC and National Championship, and this could be the year.</p>
+
+<a href="https://www.bing.com/videos/search?q=uga+hype+video+youtube&view=detail&mid=405996D292FF488B04FC405996D292FF488B04FC&FORM=VIRE">Click Here For 2017 UGA Hype Video</a>
+<p><cite> "The Purge"</cite> By Kobe Mumpower</p>
+</div>
+</body>
+</html>
